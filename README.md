@@ -1,5 +1,4 @@
 # MathGPT
-![image](https://github.com/javi22020/MathGPT/assets/90896750/5dcfeac0-5eff-4c65-8aaa-9849a837d47e)
 
 ## Resumen
 MathGPT es un chatbot que emplea GPT-3.5-Turbo (opcionalmente GPT-4-Turbo y en el futuro modelos de lenguaje locales) y programación en Python para devolver respuestas a problemas matemáticos relativamente simples.

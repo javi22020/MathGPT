@@ -1,4 +1,5 @@
 # MathGPT
+
 ## Resumen
 MathGPT es un chatbot que emplea GPT-3.5-Turbo (opcionalmente GPT-4-Turbo y en el futuro modelos de lenguaje locales) y programación en Python para devolver respuestas a problemas matemáticos relativamente simples.
 ## Características y objetivos

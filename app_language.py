@@ -1,7 +1,7 @@
 from langchain.chains.llm_math.base import LLMMathChain
 from langchain_openai import ChatOpenAI
 gpt = ChatOpenAI(model="gpt-3.5-turbo-1106")
-llm_chain = LLMMathChain.from_llm(llm=gpt)
+llm_chain = LLMMathChain.from_llm(llm=gpt, verbose=True)
 
 def follow_chat(user_input: str):
     return llm_chain.invoke(
